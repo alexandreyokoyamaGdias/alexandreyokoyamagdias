@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width=100% bottom=50px src="https://github.com/alexandreyokoyamaGdias/alexandreyokoyamagdias/assets/89324466/d9f6e304-2fcd-4147-a5b1-11b05453ac8d"/>
+<img width=100% bottom=50px src="https://github.com/alexandreyokoyamaGdias/alexandreyokoyamagdias/assets/89324466/af04d112-d741-49a3-adb7-1b6934f5e7d9"/>
 <br>
 <br>
 
