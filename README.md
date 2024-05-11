@@ -11,7 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alexandre.yokoyama.50?mibextid=ZbWKwL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandre_yokoyama/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alexandreyokoyamagdias&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexandreyokoyamagdias&theme=youtube-dark	)](https://git.io/streak-stats)
 
 ## Main Skills
 
