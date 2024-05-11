@@ -36,7 +36,7 @@
 
 <br>
 
-<p align="center"><b>Visitors Count</b></p>
+## Visitors Count
 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FalexandreyokoyamaGdias&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=Visitantes+&ta="/></p>
 </div>
