@@ -2,6 +2,8 @@
 <br>
 <br>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=verdadeiro&width=435&lines=Welcome;Hello%2C+my+name+is+Alexandre;I'm+23+years+old;I'm+a+Software+Developer;I'm+from+Brazil)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/website?label=Alexandredev.com.br&style=for-the-badge&url=https://alexandredev.com/)](https://alexandredev.com.br)
@@ -13,9 +15,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alexandreyokoyamagdias&theme=youtube-dark	)](https://git.io/streak-stats)
 
-<div align="center">
-
-    ## Main Skills
+## Main Skills
 
 <div style="display: inline_block" ><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
