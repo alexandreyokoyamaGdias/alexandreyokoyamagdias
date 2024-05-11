@@ -1,8 +1,8 @@
-<img width=100% bottom=50px src="https://github.com/alexandreyokoyamaGdias/alexandreyokoyamagdias/assets/89324466/aad44e4f-f853-463f-8b1a-1b6f13caa626"/>
-<br>
-<br>
-
 <div align="center">
+
+<img width=100% bottom=50px src="https://github.com/alexandreyokoyamaGdias/alexandreyokoyamagdias/assets/89324466/d9f6e304-2fcd-4147-a5b1-11b05453ac8d"/>
+<br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Welcome;Hello%2C+my+name+is+Alexandre;I'm+a+Software+Developer;I'm+from+Brazil)](https://git.io/typing-svg)
 
